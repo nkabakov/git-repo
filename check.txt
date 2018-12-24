@@ -1,0 +1,1 @@
+print("It's just for check smartgit client");
