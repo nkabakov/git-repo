@@ -1,1 +1,2 @@
 print("It's just for check smartgit client");
+print("It's just for check changes in project");
